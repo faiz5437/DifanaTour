@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Apr 2023 04:20:52 at https://www.bandungbandarasoetta.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bandungbandarasoetta.id/ -O1 "C:\My Web Sites\tour web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:21:15	Error: 	"Method Not Allowed" (405) at link https://www.bandungbandarasoetta.id/xmlrpc.php (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbedHFHGPezSQ.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnedHFHGPezSQ.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfedHFHGPc.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z11lE92JQEl8qw.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlE92JQEl8qw.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlE92JQEk.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z11lE92JQEl8qw.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1JlE92JQEl8qw.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1xlE92JQEk.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Rep6hNX6pmRMjLo.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp6hNX6pmRMjLo.woff (from https://www.bandungbandarasoetta.id/)
+04:21:16	Error: 	"Not Found" (404) at link https://www.bandungbandarasoetta.id/home/n1602214/public_html/rafaeltourtravel.net/wp-content/fonts/dancing-script/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup6hNX6pmRM.woff (from https://www.bandungbandarasoetta.id/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 64 links scanned, 49 files written (7834997 bytes overall) [7383804 bytes received at 321034 bytes/sec], 1694816 bytes transferred using HTTP compression in 44 files, ratio 25%, 16.0 requests per connection
+(14 errors, 0 warnings, 0 messages)
